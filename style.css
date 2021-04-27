@@ -1,0 +1,159 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+#header {
+	margin:auto;
+	width: 1100px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+header {
+	width: 100%;	
+	background-color: #000;
+	height: 40px;
+}
+
+.btn-dark{
+	background-color: #333;
+	text-decoration-color: #434343;
+
+}
+
+
+.nav li a {
+	background-color:#000;
+	color:#fff;
+	padding:10px 15px;
+	display: block;	
+}
+
+.nav > li {
+	float:left;
+}
+
+#index > a:hover{
+	background-color: #A901DB!important;
+}
+#Disponibilidad > a:hover{
+	background-color: #DBA901!important;
+}
+#Interoperabilidad > a:hover{
+	background-color: #DF0101!important;
+}
+#Modificabilidad> a:hover{
+	background-color: #0101DF!important;
+}
+#Rendimiento> a:hover{
+	background-color: #01DFD7!important;
+}
+#Seguridad> a:hover{
+	background-color: #3ADF00!important;
+}
+#Testeabilidad> a:hover{
+	background-color: #DF0174!important;
+}
+#Usabilidad> a:hover{
+	background-color: #D7DF01!important;
+}
+
+.col-md-8{
+	margin-left: 230px;
+	
+}
+.texto{
+	text-align: justify;
+}
+
+
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+
+
+.contact_form{  
+  width: 460px; 
+  height: auto;
+  margin: 80px auto;
+  border-radius: 10px;  
+  padding-top: 30px;
+  padding-bottom: 20px;  
+  background-color: #fbfbfb; 
+  padding-left: 30px; 
+}
+
+
+input{
+  background-color: #fbfbfb; 
+  width: 408px; 
+  height: 40px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #000000; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+}
+
+
+textarea{
+  background-color: #fbfbfb; 
+  width: 405px; 
+  height: 150px; 
+  border-radius: 5px;  
+  border-style: solid; 
+  border-width: 1px; 
+  border-color: #000000; 
+  margin-top: 10px;  
+  padding-left: 10px;
+  margin-bottom: 20px; 
+  padding-top: 15px; 
+}
+
+
+label{
+  display: block; 
+  float: center;  
+}
+
+
+.boton{
+  height: 45px; 
+  padding-left: 5px;
+  padding-right: 5px;   
+  margin-bottom: 20px; 
+  margin-top: 10px;   
+  text-transform: uppercase;
+  background-color: #1a940a; 
+  border-color: #1a940a; 
+  border-style: solid; 
+  border-radius: 10px;  
+  width: 420px;   
+  cursor: pointer;
+}
+
+
+button p{
+  color: #fff; 
+}
+
+.aviso{
+  font-size: 13px;  
+  color: #0e0e0e;  
+}
+
+
+
+h3{
+  font-size: 16px; 
+  padding-bottom: 30px;
+  color: #0e0e0e;   
+}
+
+
+p{
+  font-size: 14px; 
+  color: #0e0e0e; 
+}
